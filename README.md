@@ -1,4 +1,4 @@
-# Git and resarch file from Coding Camp Day 2
+# Git and research file from Coding Camp Day 2
 
 Tasks involve: 
 - Creating a repositiory
